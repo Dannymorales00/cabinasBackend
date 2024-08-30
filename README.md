@@ -71,7 +71,7 @@ npm run dev
 ```
 ### `npm run start`
 
-Este comando inicia el servidor utilizando el código compilado en la carpeta build.
+Este comando compila el proyecto TypeScript a JavaScript en la carpeta build.
 ```bash
 npm run start
 
